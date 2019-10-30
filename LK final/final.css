@@ -1,0 +1,66 @@
+h1{
+    text-align:center;
+    font-size:60px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+h3{
+    text-align:center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+body{
+    background-image: url("leathershop.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#t1{
+    background-color: rgb(77, 38, 0, 0.7);
+    height:100px;
+    width:100%;
+    text-align:center;
+    opacity:0.9;
+}
+select{
+    border-radius:6px;
+    background-color:rgb(204, 153, 102);
+    border-color:black;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-size:16;
+    width:150px;
+    height:25px;
+
+}
+p{
+    background-color:rgb(204, 153, 102);
+    font-family: 'Josefin Sans', sans-serif
+}
+img{
+    height:300px;
+    width:300px;
+}
+#t2{
+    margin-left:auto;
+    margin-right:auto;
+}
+button{
+  background-color:rgb(204, 153, 102);
+  border-radius:8px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 600;
+  width:80px;
+  height:20px;
+}
+h2{
+  font-family: 'Josefin Sans', sans-serif;
+  text-align:center;
+  font-size:35px;
+}
+#button1{
+  background-color:rgb(204, 153, 102);
+  border-radius:8px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 600;
+  width:80px;
+  height:20px;
+}
